@@ -1,0 +1,12 @@
+.img1 {
+  position: absolute;
+  z-index: 0;
+
+  filter: blur(50px);
+  transform: scale(1.25);
+}
+
+.img2 {
+  position: relative;
+  z-index: 1;
+}
